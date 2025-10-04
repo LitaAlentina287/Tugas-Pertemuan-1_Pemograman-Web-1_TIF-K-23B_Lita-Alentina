@@ -2,7 +2,7 @@
 
 ## Deskripsi
 Project ini dibuat sebagai tugas pertemuan pertama mata kuliah **Pemrograman Web 1**.  
-Isi project berupa file HTML sederhana yang menampilkan daftar acara favorit di Trans7 menurut **Lita Alentina**.
+Isi project berupa file HTML sederhana yang menampilkan daftar film favorit menurut **Lita Alentina**.
 
 ## Teknologi yang Digunakan
 - HTML5
