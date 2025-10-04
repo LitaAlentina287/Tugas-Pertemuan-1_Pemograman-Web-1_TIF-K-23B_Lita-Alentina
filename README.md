@@ -33,6 +33,7 @@ Isi project berupa file HTML sederhana yang menampilkan daftar film/program favo
 1. Clone/download repository ini.  
 2. Buka file `index.html` menggunakan browser (Chrome/Edge/Firefox).
 
-- LITA ALENTINA
-- 23552011097
-- TIF K 23B
+
+LITA ALENTINA
+23552011097
+TIF K 23B
