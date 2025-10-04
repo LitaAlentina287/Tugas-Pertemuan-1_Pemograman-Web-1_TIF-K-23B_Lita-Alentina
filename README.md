@@ -6,7 +6,7 @@ Isi project berupa file HTML sederhana yang menampilkan daftar film/program favo
 
 ## Struktur Project
 - `index.html` → File utama yang berisi daftar 3 program favorit.  
-- Menggunakan **HTML5** dan **CSS internal** untuk styling sederhana.  
+- Menggunakan **HTML5**
 
 ## Fitur
 - Menampilkan judul utama: *The Best Movies According to Lita Alentina*  
@@ -24,8 +24,9 @@ Isi project berupa file HTML sederhana yang menampilkan daftar film/program favo
 3. **Laptop Si Unyil** → Program edukasi anak & keluarga.  
 
 ## Teknologi yang Digunakan
-- HTML5  
-- CSS (Internal)  
+- HTML5
+- Git
+- Github
 - Visual Studio Code  
 
 ## Cara Menjalankan
