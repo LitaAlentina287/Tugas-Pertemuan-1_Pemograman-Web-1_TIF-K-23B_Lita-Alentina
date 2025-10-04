@@ -2,26 +2,32 @@
 
 ## Deskripsi
 Project ini dibuat sebagai tugas pertemuan pertama mata kuliah **Pemrograman Web 1**.  
-Isi project berupa file HTML sederhana yang menampilkan daftar film favorit menurut **Lita Alentina**.
+Isi project berupa file HTML sederhana yang menampilkan daftar film/program favorit menurut **Lita Alentina**.
+
+## Struktur Project
+- `index.html` → File utama yang berisi daftar 3 program favorit.  
+- Menggunakan **HTML5** dan **CSS internal** untuk styling sederhana.  
+
+## Fitur
+- Menampilkan judul utama: *The Best Movies According to Lita Alentina*  
+- Menyajikan 3 program favorit lengkap dengan:
+  - Judul
+  - Jenis program
+  - Isi/konten utama
+  - Tujuan  
+- Menggunakan elemen `<div>`, `<h1>`, `<h2>`, `<h3>`, `<p>`, dan `<hr>` untuk struktur konten.  
+- Styling sederhana dengan font Arial, margin, dan pewarnaan pada heading.  
+
+## Preview Tampilan
+1. **On The Spot** → Program hiburan & informasi unik.  
+2. **Jejak Si Gundul** → Dokumenter sosial inspiratif.  
+3. **Laptop Si Unyil** → Program edukasi anak & keluarga.  
 
 ## Teknologi yang Digunakan
-- HTML5
-- Visual Studio Code
-- Git & GitHub
+- HTML5  
+- CSS (Internal)  
+- Visual Studio Code  
 
 ## Cara Menjalankan
-1. Clone repository:
-   ```bash
-   git clone https://github.com/LitaAlentina287/Tugas-Pertemuan-1_Pemograman-Web-1_TIF-K-23B_Lita-Alentina.git
-
-2. Masuk ke folder project:
-   ```bash
-   cd Tugas-Pertemuan-1_Pemograman-Web-1_TIF-K-23B_Lita-Alentina
-
-3. Buka file index.html di browser.
-
-## Profil  
-- Lita Alentina
-- Kelas: TIF K 23B
-- NIM: 23552011097
-- Mata Kuliah: Pemrograman Web 1
+1. Clone/download repository ini.  
+2. Buka file `index.html` menggunakan browser (Chrome/Edge/Firefox).  
