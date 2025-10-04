@@ -20,7 +20,8 @@ Isi project berupa file HTML sederhana yang menampilkan daftar film favorit menu
 
 3. Buka file index.html di browser.
 
-Author
-Lita Alentina
-Kelas: TIF K 23B
-Mata Kuliah: Pemrograman Web 1
+## Profil  
+- Lita Alentina
+- Kelas: TIF K 23B
+- NIM: 23552011097
+- Mata Kuliah: Pemrograman Web 1
