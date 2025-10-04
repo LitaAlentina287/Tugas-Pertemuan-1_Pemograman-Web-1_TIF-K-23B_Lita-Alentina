@@ -18,7 +18,7 @@ Isi project berupa file HTML sederhana yang menampilkan daftar acara favorit di 
    ```bash
    cd Tugas-Pertemuan-1_Pemograman-Web-1_TIF-K-23B_Lita-Alentina
 
-Buka file index.html di browser.
+3. Buka file index.html di browser.
 
 Author
 Lita Alentina
